@@ -28,7 +28,7 @@ MAPE (Mean Absolute Percentage Error): Average percentage difference between pre
 Forecasting Approach
 Walk-forward Validation: Generates predictions one day at a time, updating the model's inputs with each new prediction
 Iterative Forecasting: Updates lag features and rolling statistics after each prediction to maintain forecast accuracy over longer horizons
-Confidence Intervals: Creates 95% confidence bands around predictions based on the model's historical error (MAE)
+Confidence Intervals: Creates 95% confidence bands around predictions based on the model's historical error (MAE).
 
 Key Advantages
 Feature-rich approach: Combines multiple statistical signals (time patterns, trends, seasonality)
