@@ -1,4 +1,4 @@
-# Sales-Prediction
+# Pizza-Restaurant-Sales-Forecasting
 
 Overview of Sales Forecasting Code
 Daily aggregation of sales data (sum of prices, quantities, and count of orders)
